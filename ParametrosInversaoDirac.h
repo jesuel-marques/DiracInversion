@@ -1,0 +1,1 @@
+#define tolerancianormar 1E-30 //	Tolerância do algoritmo de inversão BCGStab, norma de s
